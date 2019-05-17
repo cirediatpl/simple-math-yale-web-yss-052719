@@ -2,7 +2,7 @@ def addition(num1, num2)
   num1 + num2
 end
 
-addition(num1, num2)
+addition(4, 5)
 
 def subtraction(num1, num2)
 
